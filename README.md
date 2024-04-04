@@ -25,5 +25,5 @@ I am almost a veteran with DroidScript Framework.
 
 Aye here is my email and insta::
 
-Email::[](oarabilekoore@protonmail.com)
-Instagram::[](https://www.instagram.com/oneofakind_tm/)
+::[ProtonMail](oarabilekoore@protonmail.com)
+::[Instagram](https://www.instagram.com/oneofakind_tm/)
