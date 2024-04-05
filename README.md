@@ -21,8 +21,7 @@ I also know Express And Working Around With NodeJS.
 I am almost a veteran with DroidScript Framework.
 (made 2 plugins for Ds btw)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oarabiledev)](https://github.com/oarabiledev/github-readme-stats)
+![Oarabile's GitHub stats](https://github-readme-stats.vercel.app/api?username=oarabiledev&show_icons=true)
 ## 📫 Contact
 
 Aye here is my email and insta::
