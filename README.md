@@ -8,7 +8,7 @@ help other developers.
 
 I dont have a personal website, well i dont see
 
-a reoson to, nothing much to display.
+a reason to, nothing much to display.
 
 
 Im thinking of making a blog however im still focused
