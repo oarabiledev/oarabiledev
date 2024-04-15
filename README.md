@@ -22,6 +22,4 @@ And School as ill be going to uni 🫠
 
 ##
 
-
-
-<img style="max-width:100%;" src="https://github-readme-stats.vercel.app/api?username=oarabiledev&show_icons=true&locale=en&rank_icon=github" alt="GitHub Stats" />
+![oarabiledev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oarabiledev&theme=vue-dark&hide_border=true)
