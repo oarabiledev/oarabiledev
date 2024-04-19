@@ -4,22 +4,15 @@
 
 
 I'm an 18 year old developer based in Botswana,
-
 I'm mostly passionate about creating tools that
-
 help other developers.
-
 I dont have a personal website, well i dont see
-
 a reason to, nothing much to display.
 
 
 Im thinking of making a blog however im still focused
-
 on my repo - Material3 For DroidScript
-
 And School as ill be going to uni 🫠
-
 ##
 
 ![oarabiledev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oarabiledev&theme=vue-dark&hide_border=true)
