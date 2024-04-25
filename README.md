@@ -1,7 +1,7 @@
 ## Hi, I’m Oarabile Koore ✋🏽
 
-[![committers.top badge](https://user-badge.committers.top/botswana/oarabiledev.svg)](https://user-badge.committers.top/botswana/oarabiledev)
-
+![](https://komarev.com/ghpvc/?username=oarabiledev&style=flat-square) [![committers.top badge](https://user-badge.committers.top/botswana/oarabiledev.svg)](https://user-badge.committers.top/botswana/oarabiledev)
+ 
 
 I'm an 19 year old developer based in Botswana,
 I'm mostly passionate about creating tools that
