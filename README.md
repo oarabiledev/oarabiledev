@@ -1,24 +1,5 @@
-## Hi, I’m Oarabile Koore ✋🏽
+<h1 align="center">Hi 👋, I'm Oarabile</h1>
+<h3 align="center">Frontend Engineer. Creator of <a href="https://github.com/oarabiledev/Material3" target="_blank">Material 3 Design Kit For Droidscript</a> and <a href="https://github.com/oarabiledev/Euphoria" target="_blank">Euphoria</a></h3>
+<br/>
+<p align="center"> <a href="mailto:oarabilekoore@protonmail.com" target="blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="nolimits4web" /></a> </p>
 
-![](https://komarev.com/ghpvc/?username=oarabiledev&style=flat-square) [![committers.top badge](https://user-badge.committers.top/botswana/oarabiledev.svg)](https://user-badge.committers.top/botswana/oarabiledev)
- 
-
-I'm an 19 year old developer based in Botswana,
-I'm mostly passionate about creating tools that
-help other developers.
-I guess this is the part i talk about my tech
-stack:
-Vannila Web Development
-Android Development w DroidScript
-
-I dont have a personal website, well i dont see
-a reason to, nothing much to display.
-
-I have a blog, check it out. Ofcourse Im a hobbyists,
-I wont be contributing on the clock.
-
-This is the part I explain why..
-Im focused on builing/doing: 
-- Material3 For DroidScript
-- And School as ill be going to Uni 🫠
-##
